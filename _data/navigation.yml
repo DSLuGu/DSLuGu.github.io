@@ -3,6 +3,6 @@ main:
     # - title: "Quick-Start Guide"
     #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
     - title: "Categories"
-      url: /category-archive/
+      url: /categories/
     - title: "Tags"
-      url: /tag-archive/
+      url: /tags/
