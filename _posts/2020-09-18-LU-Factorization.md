@@ -7,7 +7,7 @@ categories:
     - 선형대수학
 tags:
     - LU분해
-last_modified_at: 2020-09-22T00:00:00+09:00
+last_modified_at: 2020-09-22T03:00:00+09:00
 ---
 
 ![F-LA-W3-8]({{ "/assets/images/Revise_2020-F-LA-W3-8.jpg" | relative_url }})

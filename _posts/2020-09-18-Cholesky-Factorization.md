@@ -7,7 +7,7 @@ categories:
     - 선형대수학
 tags:
     - Cholesky Factorization
-last_modified_at: 2020-09-22T00:00:00+09:00
+last_modified_at: 2020-09-22T04:00:00+09:00
 ---
 
 ![F-LA-W3-9]({{ "/assets/images/Revise_2020-F-LA-W3-9.jpg" | relative_url }})

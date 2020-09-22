@@ -8,7 +8,7 @@ categories:
 tags:
     - Gauss 소거법
     - Gauss-Jordan 소거법
-last_modified_at: 2020-09-18T00:00:00+09:00
+last_modified_at: 2020-09-18T01:00:00+09:00
 ---
 
 ![F-LA-W2-3]({{ "/assets/images/Revise_2020-F-LA-W2-3.jpg" | relative_url }})
