@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2020-09-22T00:00:00+09:00
 ---
 
-![F-LA-W3-9]({{ "/assets/images/Revise_2020-F-LA-W3-8.jpg" | relative_url }})
+![F-LA-W3-9]({{ "/assets/images/Revise_2020-F-LA-W3-9.jpg" | relative_url }})
 
 ### 참고 문서
 * 강의: 성균관대학교 선형대수응용_ADS5010_01, 이재화 교수님
