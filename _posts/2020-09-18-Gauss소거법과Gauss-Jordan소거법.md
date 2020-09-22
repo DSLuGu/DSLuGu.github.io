@@ -1,5 +1,5 @@
 ---
-title: "Gauss 소거법과 Gauss-Jordan 소거법"
+title: "[선형대수학] Gauss 소거법과 Gauss-Jordan 소거법"
 search: false
 use_math: false
 categories:
