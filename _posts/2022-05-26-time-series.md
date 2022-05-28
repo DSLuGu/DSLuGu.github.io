@@ -45,5 +45,5 @@ tags: [time-series, ]
 # 참고 자료 출처
 
 <a name="references">1</a> : https://kyounju.tistory.com/25  
-<a name="references">2</a> : http://www.aistudy.com/math/timeseries_lee.htm
-<a name="references">3</a> : http://www.sbr.ai/news/articleView.html?idxno=1608
+<a name="references">2</a> : http://www.aistudy.com/math/timeseries_lee.htm  
+<a name="references">3</a> : http://www.sbr.ai/news/articleView.html?idxno=1608  
