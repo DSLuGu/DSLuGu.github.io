@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Paper] Using Random Forest to Learn Imbalanced Data
+title: Paper - Using Random Forest to Learn Imbalanced Data
 subtitle: summary
 date: 2022-05-29
 categories: paper
