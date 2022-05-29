@@ -3,7 +3,7 @@ layout: post
 title: 시계열 데이터 분석
 subtitle: 시계열 데이터 이론 및 방법론
 date: 2022-05-26
-categories: Statistics
+categories: statistics
 tags: [time-series, ]
 ---
 
