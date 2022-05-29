@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-subtitle: [Paper] Using Random Forest to Learn Imbalanced Data (translation)
+title: [Paper] Using Random Forest to Learn Imbalanced Data
+subtitle: translation
 date: 2022-05-29
 categories: Statistics
 tags: [random-forest, imbalanced-data]
