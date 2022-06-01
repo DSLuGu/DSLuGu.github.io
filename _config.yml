@@ -148,10 +148,10 @@ google_analytics: "G-WBGNJC0R5M"
 # this and add the path to the pages in order as they should show up
 # header_pages:
   # - index.html
-  - archives.html
-  - categories.html
-  - tags.html
-  - about.md
+  # - archives.html
+  # - categories.html
+  # - tags.html
+  # - about.md
 
 # Page default value
 defaults:
