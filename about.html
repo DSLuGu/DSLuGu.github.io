@@ -3,15 +3,54 @@ layout: about
 title: About
 ---
 
-<h2>About</h2>
-
-<p>
-:art:&nbsp;Yet another theme for elegant writers with modern flat style
-and beautiful night mode.
-</p>
-
-<p>
-Hey, nice to meet you, you found this Jekyll theme. Here the yet another
-theme is a modern theme, and it's quite clear, clean and neat for writers
-and posts.
-</p>
+<style>
+    /* 컨테이너 설정 */
+    .container {display:flex;justify-content:center; flex-direction: row;}
+    .inner-container {display:flex;flex-direction: column;width: 200px;text-align:center;margin-top:50px}
+    
+    /* 툴팁 기본 스타일 설정 시작 */
+    .tooltip {
+      position: relative;
+      display: block;
+    }
+    
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 10px;
+      background-color: rgb(130, 130, 130);
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+      font-size : 12px;
+      position: absolute;
+      z-index: 1;
+    }
+    
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
+    
+    /* 툴팁 화살표 기본 스타일 설정 시작 */
+    .tooltip .tooltiptext::after {
+      content: " ";
+      position: absolute;
+      border-style: solid;
+      border-width: 5px;
+    }
+    
+    /* 아래쪽 툴팁 시작 */
+    .tooltip .tooltip-bottom {
+      width: 70px;
+      top: 150%;
+      left: 50%;
+      margin-left: -35px;
+    }
+    
+    .tooltip .tooltip-bottom::after {
+      bottom: 100%;
+      left: 50%;
+      margin-left: -5px;
+      border-color: transparent transparent rgb(130, 130, 130) transparent;
+    }
+</style>
