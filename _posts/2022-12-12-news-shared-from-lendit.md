@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (News shared from lendit)금융위 "인뱅 도입으로 은행업권 경쟁 촉진…중금리 대출은 부진"
+title: News shared from lendit - 01
 subtitle: scrap
 date: 2022-12-12
 categories: news
